@@ -1,0 +1,6 @@
+{
+  "name": "IDFC Bank",
+  "description": "Secure online banking portal for IDFC Bank, featuring account dashboards, rich real-time transaction history, and international wire transfers with OTP verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
